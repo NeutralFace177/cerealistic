@@ -6,3 +6,6 @@ Forking this repository is unappreaciated unless you wish to attempt to create a
 This is a project by Cerealist and rblxcollin, housing links developed by us for students/anyone to use at school or in a protected enviroment.
 ## We are not responsible for any trouble you put yourself into by using this website.
  You can request to commit by adding a pull request or by adding an issue.
+
+#Edits
+i just forked it so i can rename bypass to something else, as bypass is a blocked word
